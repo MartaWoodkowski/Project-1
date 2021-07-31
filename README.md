@@ -57,7 +57,7 @@ _______________________________________________________________________
     
 
 ## Our Team
-Chithra Priya Janardhana / https://github.com/mriganv
-Marta Woodkowski / https://github.com/MartaWoodkowski
+* Chithra Priya Janardhana / https://github.com/mriganv
+* Marta Woodkowski / https://github.com/MartaWoodkowski
 
 # Project-1

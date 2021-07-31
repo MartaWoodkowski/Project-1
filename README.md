@@ -11,7 +11,7 @@ Project framework initialized with multiple server-side API calls to  find data 
 * fred.com
 * bls.gov 
 * goodcarbadcar.net
-to get the data from 2014 to current date. 
+
 
 ### Technologies used:
 * Python Pandas 
@@ -23,39 +23,28 @@ _______________________________________________________________________
      * Creating a dataframe with the acquired monthly data of stock prices from Api calls to yahoo finance of 10 car manufacturers
      * Analysing the data 
      * Doing calculations to get the monthly returns and cumulative returns
-     * Creating plots with the analyzed data to 
-     * Looping over dataframes
-     * deleting a row 
+     * Creating plots with the analyzed data to visualize how unemployment affected car stocks monthly and cumulative returns of stocks 
+     * Also how unemployment affected car sales across the country
+     * Finally analyzing how car stocks, car sales, are correlated with unemployment. 
 2. [Statistical analysis of Car stock & sales and Inflation](https://github.com/pandas.ipynb)
-     * Text files
-     * Flat files
-     * Pickle files
-     * Excel files
-     * CSV files
-     * importing files from web
-     * JSON files
-     * importing multiple files 
-3. [Working on Dataframes in pandas](https://github.com/pandas_dataframe_manipulation.ipynb)
-     * subsetting the dataframe
-     * slicing rows and columns
-     * Filtering
-     * map()
-     * Vectorized functions
-     * Indexing
-     * Pivoting dataframe
-     * stacking and unstacking
-     * Melt
-     * pivot table
-     * groupby()
-     * outliers
-     * Appending
-     * Concatenating
-     * pattern matching
-     * converting to datatypes
-     * String manipulation using regular expression
-     * Duplicate Data
-     * Missing data 
-     * asserts()
+     * Text
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+3. [Statistical analysis of car stocks with various commodities ](https://github.com/pandas_dataframe_manipulation.ipynb)
+     * Text
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+   
 4. [statistics](https://github.com/_python.ipynb)
 5. [Visualization](https://github.com/python.ipynb)
      * Matplotlib

@@ -15,6 +15,7 @@ Project framework initialized with multiple server-side API calls to  find data 
 
 ### Technologies used:
 * Python Pandas 
+* API calls
 * Matplotlib, plotly for graphing
 
 ## Table of Contents:

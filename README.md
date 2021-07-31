@@ -28,7 +28,7 @@ _______________________________________________________________________
      * Creating plots with the analyzed data to visualize how unemployment affected car stocks monthly and cumulative returns of stocks 
      * Also how unemployment affected car sales across the country
      * Finally analyzing how car stocks, car sales, are correlated with unemployment. 
-2. [Statistical analysis of Car stock & sales and Inflation](https://github.com/pandas.ipynb)
+2. [Statistical analysis of Car stock prices & sales and Inflation](https://github.com/pandas.ipynb)
      * Text
      * 
      * 

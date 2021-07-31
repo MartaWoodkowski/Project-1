@@ -37,16 +37,13 @@ _______________________________________________________________________
      * 
      * 
      * 
-3. [Statistical analysis of car stocks with various commodities ](https://github.com/pandas_dataframe_manipulation.ipynb)
-     * Text
-     * 
-     * 
-     * 
-     * 
-     * 
-     * 
-     * 
-   
+3. [Statistical analysis of carsales and car stocks with various commodities ](https://github.com/pandas_dataframe_manipulation.ipynb)
+     * Created a dataframe of 10 car automobile stocks and 4 commodities from yahoo finance API
+     * Analyzed the data of 4 commodities against carsales by using monthly returns via price and percentage
+     * Created a line graph with the anaylsis 
+     * Analyzed the data of 10 car automobile stocks against 4 commodities by using monthly returns via price and percentage
+     * Created a line graph for the total average percentage return of the car automobile stocks against the average percentage of each of the 4 commodities 
+     * Analyzed the data to how each of them are correlated
 4. [statistics](https://github.com/_python.ipynb)
 5. [Visualization](https://github.com/python.ipynb)
      * Matplotlib

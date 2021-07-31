@@ -7,7 +7,6 @@ __pycache__/
 *.so
 
 config.py
-MW_notebook.ipynb
 
 # Distribution / packaging
 .Python

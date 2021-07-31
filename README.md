@@ -51,7 +51,7 @@ _______________________________________________________________________
      * Merge two dataframe for the analysis
      * Select the largest semiconductor manufacturer as our sample data to compare various car stocks
      * Plot scatter plots to find out if there's correlation between the largest chip manufactuer's stock and the car company's stock
-5. [Visualization](https://github.com/python.ipynb)
+     * [Visualization]https://github.com/MartaWoodkowski/Project-1/tree/main/output_data/semiconductor_shortage_visuals
      * Matplotlib
         * line plot
         * histogram
@@ -63,4 +63,4 @@ _______________________________________________________________________
 ## Our Team
 * Chithra Priya Janardhana / https://github.com/mriganv
 * Marta Woodkowski / https://github.com/MartaWoodkowski
-
+* Michael Liu / https://github.com/michaelliu710

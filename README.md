@@ -9,7 +9,6 @@ This project is about statistically analyzing various car stocks  and see how in
 Project framework initialized with multiple server-side API calls to  find data for analysis. We made API calls to 
 * yahoofinance.com
 * quandl.com
-* fred.com
 * bls.gov 
 * goodcarbadcar.net
 
@@ -21,7 +20,7 @@ Project framework initialized with multiple server-side API calls to  find data 
 
 ## Table of Contents:
 _______________________________________________________________________
-1. [Statistical analysis of Car stocks, car sales and Unemployment] https://github.com/MartaWoodkowski/Project-1/blob/main/carstockprice.ipynb
+1. [Statistical analysis of Car stocks, car sales and Unemployment] https://github.com/MartaWoodkowski/Project-1/blob/main/CPJ_notebook.ipynb
      * Creating a dataframe with the acquired monthly data of stock prices from Api calls to yahoo finance of 10 car manufacturers
      * Analysing the data 
      * Doing calculations to get the monthly returns and cumulative returns
@@ -64,4 +63,5 @@ _______________________________________________________________________
 * Chithra Priya Janardhana / https://github.com/mriganv
 * Marta Woodkowski / https://github.com/MartaWoodkowski
 * Michael Liu / https://github.com/michaelliu710
+* Harold Bao Hung Tran / httsps://github.com/
 

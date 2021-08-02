@@ -21,14 +21,14 @@ Project framework initialized with multiple server-side API calls to  find data 
 ## Table of Contents:
 _______________________________________________________________________
 1. [Statistical analysis of Car stocks, car sales and Unemployment] https://github.com/MartaWoodkowski/Project-1/blob/main/CPJ_notebook.ipynb
-     * [Visualizations] https://github.com/MartaWoodkowski/Project-1/tree/main/output_data/unemployment_visuals
      * Creating a dataframe with the acquired monthly data of stock prices from Api calls to yahoo finance of 10 car manufacturers
      * Analysing the data 
      * Doing calculations to get the monthly returns and cumulative returns
      * Creating plots with the analyzed data to visualize how unemployment affected car stocks monthly and cumulative returns of stocks 
      * Also how unemployment affected car sales across the country
      * Finally analyzing how car stocks, car sales, are correlated with unemployment.
-     * Concluding my analysis with the observations and findings from the graphs.  
+     * Concluding my analysis with the observations and findings from the graphs. 
+     * [Visualizations] https://github.com/MartaWoodkowski/Project-1/tree/main/output_data/unemployment_visuals 
 2. [Statistical analysis of Car stock & sales and Inflation](https://github.com/pandas.ipynb)
      * Text
      * 

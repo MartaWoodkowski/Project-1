@@ -60,5 +60,5 @@ _______________________________________________________________________
 * Chithra Priya Janardhana / https://github.com/mriganv
 * Marta Woodkowski / https://github.com/MartaWoodkowski
 * Michael Liu / https://github.com/michaelliu710
-* Harold Bao Hung Tran / httsps://github.com/
+* Harold Bao Hung Tran / https://github.com/haroldtran12345
 

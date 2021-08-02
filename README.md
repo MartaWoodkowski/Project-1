@@ -29,7 +29,7 @@ _______________________________________________________________________
      * Finally analyzing how car stocks, car sales, are correlated with unemployment.
      * Concluding my analysis with the observations and findings from the graphs. 
      * [Visualizations] https://github.com/MartaWoodkowski/Project-1/tree/main/output_data/unemployment_visuals 
-2. [Statistical analysis of Car stock & sales and Inflation] https://github.com/MartaWoodkowski/Project-1/blob/main/MW_notebook.ipynb
+2. [Statistical analysis of US Inflation vs Car manufacturers stock price change & US Car Sales] https://github.com/MartaWoodkowski/Project-1/blob/main/MW_notebook.ipynb
      * Collected monthly Consumer Price Index (CPI) data from the U.S Bureau of Labor Statistics (API calls/JSON) and monthly U.S car sales from U.S Bureau of Economic Analysis (table copy from GCBC) and stored values in respective DataFrames (timeframe: January 2014 to June 2021)
      * Calculated monthly percentage changes for each dataset (CPI, car sales, stock price) and derived corresponding R-values (correlation coefficient).  Also calculated how inflation latency impacts US car sales.
      * Created visuals (line chart, scatter plots, bar chart) to illustrate the correlation (e.g. linear regression) between stock price/car sales and CPI data.

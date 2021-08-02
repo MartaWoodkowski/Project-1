@@ -52,6 +52,8 @@ _______________________________________________________________________
      * Merge two dataframe for the analysis
      * Select the largest semiconductor manufacturer as our sample data to compare various car stocks
      * Plot scatter plots to find out if there's correlation between the largest chip manufactuer's stock and the car company's stock
+     * Calculate avg chip stock vs avg car stock
+     * Plot scatter plot to find out if avg chip stock is correlated with avg car stock
      * [Visualization]https://github.com/MartaWoodkowski/Project-1/tree/main/output_data/semiconductor_shortage_visuals
      
 ## Our Team

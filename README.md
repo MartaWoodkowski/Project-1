@@ -3,7 +3,7 @@
 Impact of various factors on car manufacturers stock prices & car sales
 
 ## Project description 
-This project is about statistically analyzing various car stocks  and see how inflation, unemployment, commodities like oil, metals like silver, gold, silicon affected the car stock prices between 2014 and 2021. This is an important step in our full-stack journey as we will now use our newly acquired skills and knowledge in this project.  
+This project is about statistically analyzing various car stocks  and see how inflation, unemployment, chip shortage, commodities like oil, metals like silver, gold, silicon affected the car stock prices between 2014 and 2021. This is an important step in our full-stack journey as we will now use our newly acquired skills and knowledge in this project.  
 
 ### APIs
 Project framework initialized with multiple server-side API calls to  find data for analysis. We made API calls to 

@@ -45,6 +45,7 @@ _______________________________________________________________________
      * Analyzed the data to how each of them are correlated
      * [Visualizations] https://github.com/MartaWoodkowski/Project-1/tree/main/output_data/commoditiy%20visual
 4. [Statistical analysis of chip and car stocks] https://github.com/MartaWoodkowski/Project-1/blob/main/ML_notebook.ipynb
+     * Yahoo Finance is used. Please do a "pip install yfinance" if needed
      * Pull dataframe of 10 semicondictor companies we will be using
      * Clean up dataframe to match the car stock price dataframe
      * Create overviews for chip stocks and car stocks

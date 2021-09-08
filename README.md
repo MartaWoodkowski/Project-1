@@ -30,21 +30,21 @@ _______________________________________________________________________
      * Finally analyzing how car stocks, car sales, are correlated with unemployment.
      * Concluding my analysis with the observations and findings from the graphs. 
      * [Visualizations] https://github.com/MartaWoodkowski/Project-1/tree/main/output_data/unemployment_visuals 
-2. [Statistical analysis of US Inflation vs Car manufacturers stock price change & US Car Sales] https://github.com/MartaWoodkowski/Project-1/blob/main/MW_notebook.ipynb
+2. [Statistical analysis of US Inflation vs Car manufacturers stock price change & US Car Sales] (https://github.com/MartaWoodkowski/Project-1/blob/main/MW_notebook.ipynb)
      * Collected monthly Consumer Price Index (CPI) data from the U.S Bureau of Labor Statistics (API calls/JSON) and monthly U.S car sales from U.S Bureau of Economic Analysis (table copy from GCBC) and stored values in respective DataFrames (timeframe: January 2014 to June 2021)
      * Calculated monthly percentage changes for each dataset (CPI, car sales, stock price) and derived corresponding R-values (correlation coefficient).  Also calculated how inflation latency impacts US car sales.
      * Created visuals (line chart, scatter plots, bar chart) to illustrate the correlation (e.g. linear regression) between stock price/car sales and CPI data.
      * Analyzed data and visuals and provided analysis of how inflation (based on CPI) affects car stock prices and US car sales.
      * [Visualizations] https://github.com/MartaWoodkowski/Project-1/tree/main/output_data/inflation_visuals
-3. [Statistical analysis of carsales and car stocks with various commodities] https://github.com/MartaWoodkowski/Project-1/blob/main/HT_notebook.ipynb
+3. [Statistical analysis of carsales and car stocks with various commodities] (https://github.com/MartaWoodkowski/Project-1/blob/main/HT_notebook.ipynb)
      * Created a dataframe of 10 car automobile stocks and 4 commodities from yahoo finance API
      * Analyzed the data of 4 commodities against carsales by using monthly returns via price and percentage
      * Created a line graph with the anaylsis 
      * Analyzed the data of 10 car automobile stocks against 4 commodities by using monthly returns via price and percentage
      * Created a line graph for the total average percentage return of the car automobile stocks against the average percentage of each of the 4 commodities 
      * Analyzed the data to how each of them are correlated
-     * [Visualizations] https://github.com/MartaWoodkowski/Project-1/tree/main/output_data/commoditiy%20visual
-4. [Statistical analysis of chip and car stocks] https://github.com/MartaWoodkowski/Project-1/blob/main/ML_notebook.ipynb
+     * [Visualizations] (https://github.com/MartaWoodkowski/Project-1/tree/main/output_data/commoditiy%20visual)
+4. [Statistical analysis of chip and car stocks] (https://github.com/MartaWoodkowski/Project-1/blob/main/ML_notebook.ipynb)
      * Yahoo Finance is used. Please do a "pip install yfinance" if needed
      * Pull dataframe of 10 semicondictor companies we will be using
      * Clean up dataframe to match the car stock price dataframe
@@ -54,7 +54,7 @@ _______________________________________________________________________
      * Plot scatter plots to find out if there's correlation between the largest chip manufactuer's stock and the car company's stock
      * Calculate avg chip stock vs avg car stock
      * Plot scatter plot to find out if avg chip stock is correlated with avg car stock
-     * [Visualization]https://github.com/MartaWoodkowski/Project-1/tree/main/output_data/semiconductor_shortage_visuals
+     * [Visualization](https://github.com/MartaWoodkowski/Project-1/tree/main/output_data/semiconductor_shortage_visuals)
      
 ## Our Team
 * Chithra Priya Janardhana / https://github.com/mriganv

@@ -20,7 +20,7 @@ Project framework initialized with multiple server-side API calls to  find data 
 
 ## Table of Contents:
 _______________________________________________________________________
-1. [Statistical analysis of Unemployment & Car stocks, Unemployment & Car sales] https://github.com/MartaWoodkowski/Project-1/blob/main/CPJ_notebook.ipynb
+1. [Statistical analysis of Unemployment & Car stocks, Unemployment & Car sales](https://github.com/MartaWoodkowski/Project-1/blob/main/CPJ_notebook.ipynb)
      * Creating a dataframe with the acquired monthly data of stock prices from Api calls to yahoo finance of 10 car manufacturers. Also did an Api call to quandl to get the unemployment rates across the country from Jan 2014 to June 2021
      * Explored and analyzed the acquired data, and did a quick quality check.
      * Did calculations to get the monthly returns and cumulative returns of all the car stocks. 

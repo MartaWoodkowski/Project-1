@@ -35,7 +35,7 @@ _______________________________________________________________________
      * Calculated monthly percentage changes for each dataset (CPI, car sales, stock price) and derived corresponding R-values (correlation coefficient).  Also calculated how inflation latency impacts US car sales.
      * Created visuals (line chart, scatter plots, bar chart) to illustrate the correlation (e.g. linear regression) between stock price/car sales and CPI data.
      * Analyzed data and visuals and provided analysis of how inflation (based on CPI) affects car stock prices and US car sales.
-     * [Visualizations] https://github.com/MartaWoodkowski/Project-1/tree/main/output_data/inflation_visuals
+     * [Visualizations](https://github.com/MartaWoodkowski/Project-1/tree/main/output_data/inflation_visuals)
 3. [Statistical analysis of carsales and car stocks with various commodities](https://github.com/MartaWoodkowski/Project-1/blob/main/HT_notebook.ipynb)
      * Created a dataframe of 10 car automobile stocks and 4 commodities from yahoo finance API
      * Analyzed the data of 4 commodities against carsales by using monthly returns via price and percentage
